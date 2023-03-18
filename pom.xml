@@ -26,6 +26,7 @@
         <module>features-16-1</module>
         <module>features-17-1</module>
         <module>features-8-1</module>
+        <module>features-13-1</module>
     </modules>
 
     <properties>
