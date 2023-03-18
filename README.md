@@ -26,9 +26,30 @@
 
 ### JDK10
 
+> 推荐：https://my.oschina.net/mdxlcj/blog/3009128
+>
+> 官方：[JDK10新特性](https://www.oracle.com/java/technologies/javase/10-relnote-issues.html)
+
 - 局部变量类型推断
+- 将JDK多存储库合并为单储存库
+- 垃圾回收接口
+- 并行Full GC 的G1
+- 应用数据共享
+- 线程局部管控
+- 移除Native-Header Generation Tool （javah）
+- Unicode 标签扩展
+- 备用内存设备上分配堆内存
+- 基于实验JAVA 的JIT 编译器
+- Root 证书
+- 基于时间的版本控制
+
+
 
 ### JDK11
+
+> 参考：https://my.oschina.net/mdxlcj/blog/3010342
+>
+> 官方：[JDK11新特性](https://www.oracle.com/java/technologies/javase/11-relnote-issues.html)
 
 - 增强局部变量类型推断（`Lambda`标注注解）
 
